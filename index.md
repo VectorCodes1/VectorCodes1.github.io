@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-Application #6 - Real TIme Systems
+# Application #6 - Real TIme Systems
 
 #  Project Description:
 
@@ -14,11 +14,11 @@ Lockheed Martin has tasked a associate level embedded engineer to create an deve
 
 # Youtube Demo:
 
-https://youtu.be/j63PTGzUygo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NMmzstVzOKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Wowki Prototype:
 
-https://wokwi.com/projects/461831619489932289
+<iframe src="https://wokwi.com/projects/461831619489932289" width="100%" height="600px" style="border:none;"></iframe>
 
 # Concurrency Diagram:
 
