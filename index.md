@@ -6,4 +6,19 @@ layout: single
 author_profile: true
 ---
 
-Matias Test
+Application #6 - Real TIme Systems
+
+#  Project Description:
+
+Lockheed Martin has tasked a associate level embedded engineer to create an develop a pilot interface for the next upcoming jet model. This project consisted of integration of a fuel injector (potentiometer), pilot display screen (I2C Display), telemetry signal (green LED), alarm signal (red LED), alarm sound (buzzer) and emergancy button (button). The system has 5 tasks of varying priority and 1 ISR. The system uses at least two different distinct methods for sycronisation including use of mutex, binary and queues used for different purposes per each sub-system. When the pilot starts up the aircraft they will be interacing with two of the components including the fuel injector and button. When pressed, the button will engaged the emergancy break system and display a message on the LCD screen, the alarm will flash in warning and the alarm sound will play. When disengaged the alarms will turn off and the LCD screen will return to normal. For the fuel injector, when the knob is turned the fuel injection will vary between 0 - 100 (%) and the display screen/serial plot will show the value. At greater than 50 (%) the display will have a "H" next to the precentage and "L" when less than 50 (%). The final system is the telemetry which works independantly of the other components and will flash on and off every 1000 (ms). 
+
+# Youtube Demo:
+
+https://youtu.be/j63PTGzUygo
+
+# Wowki Prototype:
+
+https://wokwi.com/projects/461831619489932289
+
+# Concurrency Diagram:
+
