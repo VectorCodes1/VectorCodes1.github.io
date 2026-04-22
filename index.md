@@ -5,8 +5,7 @@
 layout: single
 author_profile: true
 ---
-
-# Application #6 - Real TIme Systems
+# Application #6 - Real TIme Systems:
 
 #  Project Description:
 
@@ -22,3 +21,6 @@ Lockheed Martin has tasked a associate level embedded engineer to create an deve
 
 # Concurrency Diagram:
 
+![Image 1](assets/images/1.jpg)
+![Image 2](assets/images/2.jpg)
+![Image 3](assets/images/3.jpg)
