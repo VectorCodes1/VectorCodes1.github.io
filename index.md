@@ -6,7 +6,3 @@ layout: single
 author_profile: true
 ---
 
-I am a **undergraduate student** at the University of Central Florida studying **Electrical Engineering**. My passions and interested are in the area of RF and analog design. My main projects are:
-- RF Matlab Project
-- Internal Project Competition Project Lead
-- SoutheastCon Hardware Competition 2024
